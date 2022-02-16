@@ -1,4 +1,4 @@
-About the project:
+#About the project:
 
   
 
@@ -16,7 +16,7 @@ What Do You Need Before the Beginning:
 
   
 
-How To Use:
+#How To Use:
 
 You must add some dependency in the library manager of the Arduino IDE.
 
