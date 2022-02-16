@@ -8,7 +8,7 @@ It Checks Prometheus API frequently to check for any alerts status changes.
 
 If it detects any alert then starts blinking, you can change the action from blinking to anything you want, like some buzzer alert or vibration and so on.
 
-What Do You Need Before the Beginning:
+## What Do You Need Before the Beginning:
 
 1 - an Arduino compatible ESP8266 board
 
